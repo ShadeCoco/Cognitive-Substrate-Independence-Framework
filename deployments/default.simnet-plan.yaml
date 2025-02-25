@@ -50,6 +50,11 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: experiential-fidelity-preservation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/experiential-fidelity-preservation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: mind-substrate-abstraction
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/mind-substrate-abstraction.clar
