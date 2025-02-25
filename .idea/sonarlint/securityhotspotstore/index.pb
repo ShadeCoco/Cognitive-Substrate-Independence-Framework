@@ -11,3 +11,5 @@ S
 #contracts/thought-transference.clar,5/6/562b2fd1b948e65254fd47e0166d316988147cda
 R
 "tests/thought-transference.test.ts,6/9/695ae08209cda54e4bd27a7e075a92feda41a682
+a
+1contracts/experiential-fidelity-preservation.clar,4/a/4a9228b5759908373edcb971d7c0326b41638a07
